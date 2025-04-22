@@ -30,7 +30,7 @@ export const events: Omit<Event, "remainingSpots" | "isBooked">[] = [
   },
 ];
 
-export let bookings: Booking[] = [
+export const bookings: Booking[] = [
   { userId: "1", eventId: "1" },
   { userId: "2", eventId: "1" },
 ];
