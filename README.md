@@ -2,7 +2,7 @@
 
 This is a fullstack event booking system built using **Next.js** and **TypeScript**. It allows users to view events, book them, and even add new ones — all with proper constraints and clean UI.
 
-Live Demo: [🔗 Click Here](https://event-booking.vercel.app)
+Live Demo: [🔗 Click Here](https://event-booking-arsu.vercel.app)
 
 ---
 
